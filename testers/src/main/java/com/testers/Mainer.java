@@ -6,7 +6,7 @@ public class Mainer {
 	{
 		System.out.println("Now we testing1");
 		System.out.println("Now we testing2");
-		System.out.println("Now we testing3");
+		System.out.println("Now we pull request");
 
 	}
 
