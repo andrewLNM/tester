@@ -4,7 +4,7 @@ public class Mainer {
 
 	public static void main(String[] args)
 	{
-		System.out.println("New start");
+		System.out.println("New change");
 
 	}
 
